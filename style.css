@@ -77,6 +77,13 @@ ul li {
 
 }
 
+ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    
+}
+
 .project-card {
     background: #fff;
     border-radius: 10px;
