@@ -19,6 +19,15 @@ body {
 
 }
 
+a, button {
+    transition:  all 0.3s ease
+}
+
+a:hover, button:hover {
+    color: #ff4a57;
+    transform: scale(1.05);
+}
+
 nav {
     position: fixed;
     width: 100%;
