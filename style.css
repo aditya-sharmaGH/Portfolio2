@@ -51,18 +51,6 @@ nav {
     color: #58a6ff;
  }
 
-
-
-
-
-
-
-
-
-    
-
- 
-
 nav {
      list-style: none;
      display: flex;
@@ -79,15 +67,6 @@ nav ul{
 }
 .nav-links li a:hover{
     color:#58a6ff
-}
-
-
-
-
-
-nav ul { 
-   
-
 }
 
 nav ul li a {
@@ -108,21 +87,6 @@ section {
 h2 {
     color: #007bff;
     margin-bottom: 15px;
-
-}
-
-ul li {
-    list-style-type: disc
-    margin-left: 20px;
-    text-align: center;
-
-
-
-
-}
-
-.dots {
-    display: none 
 }
 
 ul {
